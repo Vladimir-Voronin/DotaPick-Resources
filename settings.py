@@ -17,6 +17,8 @@ BASE_SKILL_LEVELS = [
     '>5K MMR',
 ]
 
+UPDATE_INFO_JSON_FILE_NAME = 'update-info.json'
+
 DOTABUFF_LINK_PREFIX = r"https://dotabuff.com/"
 DOTABUFF_ALL_HEROES_LINK = r"https://dotabuff.com/heroes/"
 DOTABUFF_ALL_HEROES_WINRATE_LINK = "https://dotabuff.com/heroes/winning/"
